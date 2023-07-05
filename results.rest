@@ -1,0 +1,1 @@
+GET http://localhost:8850/paginatedUsers?page=5&limit=5
